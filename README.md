@@ -12,7 +12,6 @@
 ## 🌟 Über mich
 
 - 🎮 Ich entwickle Minecraft-Plugins mit Fokus auf Performance & Nutzerfreundlichkeit  
-- 📦 Mein aktuellstes Projekt: [`HomeSystem`](https://github.com/FluffixYT/HomeSystem)  
 - 💡 Ich liebe es, neue Technologien zu entdecken & mit Code kreative Lösungen zu bauen  
 - 🛠️ Skills: Java, Kotlin, SQL, Git, Spigot/Bukkit API  
 
